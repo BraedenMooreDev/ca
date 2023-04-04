@@ -1,0 +1,10 @@
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\thread_local-c89ddc465beb03d5.rmeta: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\libthread_local-c89ddc465beb03d5.rlib: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\thread_local-c89ddc465beb03d5.d: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs
+
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs:

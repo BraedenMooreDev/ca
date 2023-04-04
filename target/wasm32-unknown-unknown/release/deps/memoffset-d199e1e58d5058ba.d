@@ -1,0 +1,10 @@
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\release\deps\memoffset-d199e1e58d5058ba.rmeta: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\release\deps\libmemoffset-d199e1e58d5058ba.rlib: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\release\deps\memoffset-d199e1e58d5058ba.d: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs
+
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs:

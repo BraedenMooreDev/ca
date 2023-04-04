@@ -1,0 +1,10 @@
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\memoffset-61cd6b1d2599500f.rmeta: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\libmemoffset-61cd6b1d2599500f.rlib: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\memoffset-61cd6b1d2599500f.d: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs
+
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\lib.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\raw_field.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\offset_of.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\memoffset-0.6.5\src\span_of.rs:

@@ -1,0 +1,1 @@
+C:\Users\Braeden\ Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\libDiSC.rlib: C:\Users\Braeden\ Moore\Documents\Programs\DiSC\src\app.rs C:\Users\Braeden\ Moore\Documents\Programs\DiSC\src\lib.rs

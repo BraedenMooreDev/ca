@@ -1,0 +1,10 @@
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\release\deps\thread_local-d7bc618f344b0614.rmeta: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\release\deps\libthread_local-d7bc618f344b0614.rlib: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\release\deps\thread_local-d7bc618f344b0614.d: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs
+
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\lib.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\cached.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\thread_id.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\thread_local-1.1.5\src\unreachable.rs:

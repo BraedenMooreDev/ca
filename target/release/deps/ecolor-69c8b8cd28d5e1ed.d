@@ -1,0 +1,11 @@
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\release\deps\ecolor-69c8b8cd28d5e1ed.rmeta: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\color32.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\release\deps\libecolor-69c8b8cd28d5e1ed.rlib: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\color32.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\release\deps\ecolor-69c8b8cd28d5e1ed.d: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\color32.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\lib.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\color32.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva_gamma.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\hsva.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\ecolor-0.21.0\src\rgba.rs:

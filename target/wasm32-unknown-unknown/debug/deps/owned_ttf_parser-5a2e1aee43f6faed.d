@@ -1,0 +1,10 @@
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\owned_ttf_parser-5a2e1aee43f6faed.rmeta: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\convert.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\owned.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\preparse.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\libowned_ttf_parser-5a2e1aee43f6faed.rlib: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\convert.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\owned.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\preparse.rs
+
+C:\Users\Braeden Moore\Documents\Programs\DiSC\target\wasm32-unknown-unknown\debug\deps\owned_ttf_parser-5a2e1aee43f6faed.d: C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\lib.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\convert.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\owned.rs C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\preparse.rs
+
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\lib.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\convert.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\owned.rs:
+C:\Users\Braeden\ Moore\.cargo\registry\src\github.com-1ecc6299db9ec823\owned_ttf_parser-0.18.1\src\preparse.rs:
